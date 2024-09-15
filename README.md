@@ -1,6 +1,6 @@
 "Project Title:DOCTOR ROBO (The Medical Assistant Robot)"
 
-Hardware used: ESP32, ESP8266, MXA30102, Servo Motor, Hart Rate sensor, DHT11, PIR sensor, Ultrasonic sensor, 20*4 LCD Display
+Hardware used: ESP32, MXA30102, Servo Motor, Hart Rate sensor, DHT11, PIR sensor, Ultrasonic sensor, 20*4 LCD Display
 
 A four-wheel movable robot, controlled with android app which can measure various parameters of 
 human body like - body temperature, pulse rate & oxygen saturation level of the user as well as temperature & 
